@@ -1,5 +1,5 @@
 # EditorScriptTemplate
-An asset that can be used to create script templates for Editing an object's inspector.
+Instead of Editor script every time, you can use this to create Editor scripts that are designed to change the Inspector of specific objects.
 
 ## How to use:
 <ol>
