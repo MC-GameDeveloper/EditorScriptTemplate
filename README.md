@@ -1,5 +1,5 @@
 # EditorScriptTemplate
-Instead of Editor script every time, you can use this to create Editor scripts that are designed to change the Inspector of specific objects.
+Instead of creating a "C# script" and changing it for Editor Scripting this will allow you to create an Editor Script using a template designed to customize the Inspector of an object.
 
 ## How to use:
 <ol>
